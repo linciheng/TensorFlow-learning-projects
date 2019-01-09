@@ -1,0 +1,1 @@
+TensorFlow实现了RNN和双向RNN。
